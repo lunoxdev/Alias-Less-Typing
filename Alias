@@ -1,3 +1,8 @@
+In root, use this command:
+nano .zshrc
+
+Then, paste the alias list:
+
 # Aliases
 alias g='git'
 alias gaa='git add -A'
